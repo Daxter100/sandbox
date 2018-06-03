@@ -1,0 +1,15 @@
+{
+    "name": "sandstonebot",
+    "description": "",
+    "secretKey": "",
+    "services": [
+        {
+            "id": "3d9313e0-6686-11e8-b07d-2b316c2e3340",
+            "name": "http://localhost:3978/api/messages",
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages"
+        }
+    ]
+}
